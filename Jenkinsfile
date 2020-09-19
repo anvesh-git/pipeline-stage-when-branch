@@ -6,7 +6,7 @@ pipeline {
                 branch 'master'
             }
             steps {
-                echo 'building master step'
+                echo 'building master step1'
             }
 
         }
